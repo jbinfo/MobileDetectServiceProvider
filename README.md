@@ -13,7 +13,8 @@ Just create a composer.json file for your project:
 {
     "require": {
         "binfo/mobile-detect-service-provider": "dev-master"
-    }
+    },
+    "minimum-stability": "dev"
 }
 ```
 
