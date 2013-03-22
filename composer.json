@@ -1,0 +1,22 @@
+{
+    "name": "binfo/mobile-detect-service-provider",
+    "description": "A mobile detect ServiceProvider for Silex, based on Mobile-Detect library.",
+    "keywords": ["silex"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lhassan Baazzi",
+            "email": "baazzilhassan@gmail.com",
+            "homepage": "http://baazzilhassan.tumblr.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "silex/silex": "1.0.*@dev",
+        "mobiledetect/mobiledetectlib": "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "Binfo\\Silex": "src" }
+    }
+}
