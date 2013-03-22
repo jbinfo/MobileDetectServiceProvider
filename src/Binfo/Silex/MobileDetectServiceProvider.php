@@ -17,15 +17,15 @@ use Silex\ServiceProviderInterface;
 class MobileDetectServiceProvider implements ServiceProviderInterface
 {
 
-	public function register(Application $app)
-	{
-		$app['mobile_detect'] = $app->share(function() {
-			return new \Mobile_Detect();
-		});
-	}
+    public function register(Application $app)
+    {
+        $app['mobile_detect'] = $app->share(function() {
+            return new \Mobile_Detect();
+        });
+    }
 
-	public function boot(Application $app)
-	{
+    public function boot(Application $app)
+    {
 
-	}
+    }
 }
