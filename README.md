@@ -12,7 +12,7 @@ Just create a composer.json file for your project:
 ```JSON
 {
     "require": {
-        "binfo/mobile-detect-service-provider": "dev-master"
+        "binfo/mobile-detect-service-provider": "1.0.*@dev"
     },
     "minimum-stability": "dev"
 }
@@ -45,4 +45,4 @@ echo $app["mobile_detect"]->version('iPad');
 ```
 
 
-For more information check the website of [Mobile-Detect library](http://mobiledetect.net/).
+For more informations check the website of [Mobile-Detect library](http://mobiledetect.net/).
