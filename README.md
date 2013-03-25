@@ -12,9 +12,9 @@ Just create a composer.json file for your project:
 ```JSON
 {
     "require": {
-        "binfo/mobile-detect-service-provider": "1.0.*@dev"
-    },
-    "minimum-stability": "dev"
+        "binfo/mobile-detect-service-provider": "1.0.*@dev",
+        "silex/silex": "1.0.*@dev"
+    }
 }
 ```
 
