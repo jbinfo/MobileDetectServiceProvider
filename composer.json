@@ -1,5 +1,5 @@
 {
-    "name": "binfo/mobile-detect-service-provider",
+    "name": "jbinfo/mobile-detect-service-provider",
     "description": "A mobile detect ServiceProvider for Silex, based on Mobile-Detect library.",
     "keywords": ["silex", "mobile", "mobile detect", "php mobile detect"],
     "homepage": "https://github.com/binfo/MobileDetectServiceProvider",
@@ -8,7 +8,7 @@
         {
             "name": "Lhassan Baazzi",
             "email": "baazzilhassan@gmail.com",
-            "homepage": "http://baazzilhassan.tumblr.com/",
+            "homepage": "http://jbinfo.io/",
             "role": "Developer"
         }
     ],
