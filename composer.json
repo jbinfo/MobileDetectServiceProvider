@@ -2,7 +2,7 @@
     "name": "jbinfo/mobile-detect-service-provider",
     "description": "A mobile detect ServiceProvider for Silex, based on Mobile-Detect library.",
     "keywords": ["silex", "mobile", "mobile detect", "php mobile detect"],
-    "homepage": "https://github.com/binfo/MobileDetectServiceProvider",
+    "homepage": "https://github.com/jbinfo/MobileDetectServiceProvider",
     "license": "MIT",
     "authors": [
         {
