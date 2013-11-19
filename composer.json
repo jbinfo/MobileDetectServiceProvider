@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "silex/silex": "1.0.*@dev",
+        "silex/silex": "~1",
         "mobiledetect/mobiledetectlib": "~2"
     },
     "autoload": {
