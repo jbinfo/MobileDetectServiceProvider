@@ -46,3 +46,7 @@ echo $app["mobile_detect"]->version('iPad');
 
 
 For more informations check the website of [Mobile-Detect library](http://mobiledetect.net/).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jbinfo/mobiledetectserviceprovider/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
