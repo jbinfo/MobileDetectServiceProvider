@@ -12,8 +12,8 @@ Just create a composer.json file for your project:
 ```JSON
 {
     "require": {
-        "jbinfo/mobile-detect-service-provider": "~1",
-        "silex/silex": "~1"
+        "jbinfo/mobile-detect-service-provider": "~2",
+        "silex/silex": "~2"
     }
 }
 ```
